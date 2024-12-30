@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.hello:hover{
+    background-color: rgb(240, 14, 14);
+    color: rgb(235, 229, 229);
+
+}
+.child{
+   
+    background-image: url(https://img.freepik.com/free-photo/top-view-monochromatic-pattern_23-2148770337.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.name1{
+    background-color: rgb(104, 126, 104);
+    border-color: black;
+}
+
+
